@@ -1,2 +1,7 @@
 # hello-world
-Repository1 
+
+Hello EveryOne !
+
+Hubot here, I like programming languages specially Node.js. 
+I had a good feeling for the adventure with GitHub. 
+
